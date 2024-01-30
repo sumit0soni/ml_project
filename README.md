@@ -18,11 +18,11 @@ Dataset is taken from keggle
 **Natural Language Processing (NLP):**
   _Sentiment Analysis:_ Determining the sentiment (positive, negative, neutral) expressed in text.
   _Named Entity Recognition:_ Identifying and classifying entities (e.g., names, organizations) in text.
-  _Text Classification:_ Categorizing text into predefined classes or categories. (https://github.com/sumit0soni/ml_project/tree/main/EmotionDetection)
+  _Text Classification:_ Categorizing text into predefined classes or categories.
 
 **Time Series Forecasting:** Predicting future values based on historical data (e.g., stock price prediction, weather forecasting).
 
-**Image Recognition:** Classifying objects or scenes in images (e.g., recognizing handwritten digits, identifying objects in photographs).
+**Image Recognition:** Classifying objects or scenes in images (e.g., recognizing handwritten digits, identifying objects in photographs) (https://github.com/sumit0soni/ml_project/tree/main/EmotionDetection)
 
 **Reinforcement Learning:** Training agents to make sequential decisions in an environment to maximize a reward signal (e.g., game playing, robotic control).
 
