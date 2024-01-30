@@ -1,8 +1,11 @@
 *Objective is to pick below ML problems and for this Dataset is to be taken from Keggle.*
 
 **Binary Classification:** Predicting whether an instance belongs to one of two classes (e.g., spam or not spam).
+
 **Multi-class Classification:** Predicting the class label from more than two classes (e.g., classifying images of animals into different species).
+
 **Regression:** Predicting a continuous numeric value (e.g., predicting house prices based on features like square footage, number of bedrooms, etc.).
+
 **Clustering:** Grouping similar instances together based on certain features without predefined labels (e.g., customer segmentation based on purchasing behavior).
 **Dimensionality Reduction:** Reducing the number of input features while retaining the essential information (e.g., using techniques like Principal Component Analysis).
 **Anomaly Detection:** Identifying instances that are significantly different from the majority of the data (e.g., detecting fraudulent transactions in financial data).
