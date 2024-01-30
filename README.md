@@ -1,4 +1,4 @@
-***Objective is to pick below ML problems, Dataset is to be taken from Keggle.***
+*Objective is to pick below ML problems and for this Dataset is to be taken from Keggle.*
 
 **Binary Classification:** Predicting whether an instance belongs to one of two classes (e.g., spam or not spam).
 **Multi-class Classification:** Predicting the class label from more than two classes (e.g., classifying images of animals into different species).
