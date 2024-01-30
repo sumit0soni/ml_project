@@ -1,4 +1,5 @@
-*Objective is to pick below ML problems and for this Dataset is to be taken from Keggle.*
+*Objective is to pick below ML problems and practice it*
+Dataset is taken from keggle
 
 **Binary Classification:** Predicting whether an instance belongs to one of two classes (e.g., spam or not spam).
 
